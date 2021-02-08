@@ -1,1 +1,2 @@
-print"Hola amigos"
+print("Hola amigos")
+print("Buenas noches")
