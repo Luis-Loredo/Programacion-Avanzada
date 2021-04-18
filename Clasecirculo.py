@@ -2,7 +2,7 @@ radio = ""
 altura = ""
 
 class circulo:
-    def __init__ (Self, radio, altura ):
+    def __init__ (self, radio, altura ):
         self.radio = radio
         self.altura = altura
     
